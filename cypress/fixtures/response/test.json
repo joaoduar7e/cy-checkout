@@ -1,0 +1,19 @@
+[
+    {
+        "sale_id": 372589,
+        "success": true,
+        "boleto_url": "http://localhost:8080/redirect/5OiDc7gtPR",
+        "boleto_barcode": "1234 5678",
+        "chc": null,
+        "token": "o8osZadPC6teSrPxTKZ9",
+        "product": {
+            "name": "Venda",
+            "amount": 15,
+            "type": "TRANSACTION",
+            "custom_thank_you_page": null
+        },
+        "upsell": null,
+        "shipping_amount": null,
+        "shipping_selected": null
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "method": "BOLETO",
+    "amount": 15,
+    "total": 15,
+    "installments": 1,
+    "product_id": "673",
+    "name": "João Paulo Teste",
+    "email": "joaotestelocal@gmail.com",
+    "cellphone": "+5553433119747",
+    "document": "770.279.150-06",
+    "country_code": "BR",
+    "zipcode": null,
+    "street": "",
+    "number": 0,
+    "complement": "",
+    "neighborhood": "",
+    "city": "",
+    "state": "",
+    "language": "pt"
+}
